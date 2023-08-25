@@ -1,20 +1,47 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=180&section=header&text=NEED%20WORK!-nl-HIRE%20ME.&fontSize=80&animation=blinking)
+<br>
+<br>
+<br>
+<br>
+<br>
 
-### Hi there 👋
-![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5)
+
+## General
+![Freshness](https://github-readme-stats.vercel.app/api?username=HOOOO98&theme=swift&show_icons=true)
+- I plan and carry out projects.
+- Perform both team and personal projects.
+- I am interested in industries related to travel, merchandise sales, and intellectual property
 
 
-<!--
-**HOOOO98/HOOOO98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+## Skills
+#### Problem solving skill
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=loading98)](https://solved.ac/loading98)
+- Struggle to improve problem-solving skills.
+- I try to solve the unclear problems we face in reality more clearly and easily.<br>
+#### Software Skills
+<details>
+  <summary>Web Front End</summary>
+  
+![Static Badge](https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javscript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+  <summary>Web Back &nbsp;End</summary>
+  
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=yellow)
+</details>
+<br>
+<br>
+
+|Also can contact me here|
+|:--------------------:|
+|loading2us@gmail.com|
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=footer&text=NEVER%20HESITATE&fontSize=35&animation=twinkling)
