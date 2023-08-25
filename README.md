@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5)
+
 
 <!--
 **HOOOO98/HOOOO98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
