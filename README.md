@@ -29,6 +29,9 @@
 ![Static Badge](https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javscript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+<br>
+![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
+![Static Badge](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=Expo)
 
 </details>
 
