@@ -18,6 +18,7 @@
 #### Software Skills
 <details>
   <summary>Web Front End</summary>
+  
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
 ![Static Badge](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=Expo)
 
