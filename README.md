@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=180&section=header&text=NEED%20WORK!-nl-HIRE%20ME.&fontSize=80&animation=blinking)
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ## General
 ![Freshness](https://github-readme-stats.vercel.app/api?username=HOOOO98&theme=swift&show_icons=true)
