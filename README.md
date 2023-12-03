@@ -21,6 +21,7 @@
   
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
 ![Static Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6)
 
 
 </details>
