@@ -20,7 +20,19 @@
   <summary>Web Front End</summary>
   
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
+![Static Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000)
+
+
+</details>
+
+<details>
+  <summary>APP Front End</summary>
+
+![Static Badge](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=Expo)
+<br>
+![Static Badge](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B)
+
 
 </details>
 
