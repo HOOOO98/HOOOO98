@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary>APP Front End</summary>
+  <summary>App Front End</summary>
 
 ![Static Badge](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=Expo)
@@ -40,6 +40,17 @@
   
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=yellow)
 </details>
+
+
+<details>
+  <summary>Test</summary>
+
+  ![Static Badge](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=white&color=%2317202C)
+
+</details>
+
+
+
 <br>
 <br>
 
