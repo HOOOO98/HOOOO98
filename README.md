@@ -35,17 +35,11 @@
 
 </details>
 
-<details>
-  <summary>Web Back &nbsp;End</summary>
-  
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=yellow)
-</details>
-
 
 <details>
   <summary>Test</summary>
 
-  ![Static Badge](https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=white&color=%2317202C)
+![Static Badge](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </details>
 
@@ -54,8 +48,8 @@
 <br>
 <br>
 
-|Also can contact me here|
-|:--------------------:|
-|loading2us@gmail.com|
+|Also can contact me here|Check my portfolio|
+|:--------------------:|:------------------:|
+|loading2us@gmail.com|https://devstep.vercel.app/|
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=footer&text=NEVER%20HESITATE&fontSize=35&animation=twinkling)
