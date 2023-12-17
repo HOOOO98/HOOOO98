@@ -48,8 +48,12 @@
 <br>
 <br>
 
+<div align="center">
+
 |Also can contact me here|Check my portfolio|
 |:--------------------:|:------------------:|
 |loading2us@gmail.com|https://devstep.vercel.app/|
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=footer&text=NEVER%20HESITATE&fontSize=35&animation=twinkling)
