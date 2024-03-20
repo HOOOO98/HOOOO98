@@ -30,18 +30,12 @@
   <summary>App Front End</summary>
 
 ![Static Badge](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=Expo)
+![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-</details>
-
-
-<details>
-  <summary>Test</summary>
-
-![Static Badge](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </details>
+
 
 
 
